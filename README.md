@@ -2,6 +2,7 @@
 
 Welcome to the **Ping Pong Game** repository! This project is a two-player Ping Pong game developed in Python using the Turtle graphics library. It's a fun way to understand game development concepts and the use of object-oriented programming in Python.
 
+![](https://github.com/psyccho00/pin-pong/blob/main/ping-pong.png)
 ---
 
 ## 📂 Repository Structure
